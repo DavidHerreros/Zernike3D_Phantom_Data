@@ -1,0 +1,21 @@
+2021-10-05 12:27:49,393 INFO:  [32mRUNNING PROTOCOL -----------------[0m
+2021-10-05 12:27:49,393 INFO:  Hostname: stallman
+2021-10-05 12:27:49,393 INFO:  PID: 35410
+2021-10-05 12:27:49,393 INFO:  pyworkflow: 3.0.16
+2021-10-05 12:27:49,393 INFO:  plugin: xmipp3
+2021-10-05 12:27:49,394 INFO:  currentDir: /media/davidherreros/Datos_David/Scipion/ScipionUserData/projects/Zernike_Particles_GPU_Many
+2021-10-05 12:27:49,394 INFO:  workingDir: Runs/006588_XmippProtCreateGallery
+2021-10-05 12:27:49,394 INFO:  runMode: Continue
+2021-10-05 12:27:49,394 INFO:            MPI: 1
+2021-10-05 12:27:49,394 INFO:        threads: 1
+2021-10-05 12:27:49,394 INFO:   Starting at step: 1
+2021-10-05 12:27:49,426 INFO:   Running steps 
+2021-10-05 12:27:49,433 INFO:  [35mSTARTED[0m: copyInput, step 1, time 2021-10-05 12:27:49.433022
+2021-10-05 12:27:49,507 INFO:  [35mFINISHED[0m: copyInput, step 1, time 2021-10-05 12:27:49.473291
+2021-10-05 12:27:49,507 INFO:  [35mSTARTED[0m: createGallery, step 2, time 2021-10-05 12:27:49.507619
+2021-10-05 12:27:49,516 INFO:  [32m xmipp_phantom_project -i Runs/006588_XmippProtCreateGallery/tmp/volume.vol -o Runs/006588_XmippProtCreateGallery/images.stk --params Runs/006588_XmippProtCreateGallery/extra/projectionParameters.xmd --method fourier 2 0.250000 --sym c1[0m
+2021-10-05 12:27:51,387 INFO:  [35mFINISHED[0m: createGallery, step 2, time 2021-10-05 12:27:51.364139
+2021-10-05 12:27:51,388 INFO:  [35mSTARTED[0m: createOutput, step 3, time 2021-10-05 12:27:51.387983
+2021-10-05 12:27:51,471 INFO:  [35mFINISHED[0m: createOutput, step 3, time 2021-10-05 12:27:51.456184
+2021-10-05 12:27:51,491 INFO:  Cleaning temp folder....
+2021-10-05 12:27:51,493 INFO:  [32m------------------- PROTOCOL FINISHED[0m

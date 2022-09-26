@@ -1,0 +1,10 @@
+# XMIPP_STAR_1 *
+data_block1
+_dimensions2D   '125 125'
+_projRotRange    '0.000000 360.000000 12'
+_projRotRandomness   even 
+_projTiltRange    '0.000000 180.000000 6'
+_projTiltRandomness   even 
+_projPsiRange    '0 0 1'
+_projPsiRandomness   even 
+_noiseCoord '0.000000 0'

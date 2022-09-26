@@ -1,0 +1,60 @@
+# XMIPP_STAR_1 * 
+# Angles rot,tilt and psi contain noisy projection angles and rot2,tilt2 
+# and psi2 contain actual projection angles  
+data_noname
+loop_
+ _anglePsi
+ _anglePsi2
+ _angleRot
+ _angleRot2
+ _angleTilt
+ _angleTilt2
+ _enabled
+ _image
+ _shiftX
+ _shiftY
+    0.000000     0.000000     0.000000     0.000000     0.000000     0.000000                    1 000001@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000     0.000000     0.000000    30.000000    30.000000                    1 000002@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000    60.000000    60.000000    30.000000    30.000000                    1 000003@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   120.000000   120.000000    30.000000    30.000000                    1 000004@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   180.000000   180.000000    30.000000    30.000000                    1 000005@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   240.000000   240.000000    30.000000    30.000000                    1 000006@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   300.000000   300.000000    30.000000    30.000000                    1 000007@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000     0.000000     0.000000    60.000000    60.000000                    1 000008@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000    36.000000    36.000000    60.000000    60.000000                    1 000009@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000    72.000000    72.000000    60.000000    60.000000                    1 000010@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   108.000000   108.000000    60.000000    60.000000                    1 000011@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   144.000000   144.000000    60.000000    60.000000                    1 000012@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   180.000000   180.000000    60.000000    60.000000                    1 000013@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   216.000000   216.000000    60.000000    60.000000                    1 000014@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   252.000000   252.000000    60.000000    60.000000                    1 000015@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   288.000000   288.000000    60.000000    60.000000                    1 000016@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   324.000000   324.000000    60.000000    60.000000                    1 000017@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000     0.000000     0.000000    90.000000    90.000000                    1 000018@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000    32.727273    32.727273    90.000000    90.000000                    1 000019@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000    65.454545    65.454545    90.000000    90.000000                    1 000020@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000    98.181818    98.181818    90.000000    90.000000                    1 000021@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   130.909091   130.909091    90.000000    90.000000                    1 000022@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   163.636364   163.636364    90.000000    90.000000                    1 000023@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   196.363636   196.363636    90.000000    90.000000                    1 000024@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   229.090909   229.090909    90.000000    90.000000                    1 000025@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   261.818182   261.818182    90.000000    90.000000                    1 000026@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   294.545455   294.545455    90.000000    90.000000                    1 000027@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   327.272727   327.272727    90.000000    90.000000                    1 000028@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000     0.000000     0.000000   120.000000   120.000000                    1 000029@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000    36.000000    36.000000   120.000000   120.000000                    1 000030@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000    72.000000    72.000000   120.000000   120.000000                    1 000031@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   108.000000   108.000000   120.000000   120.000000                    1 000032@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   144.000000   144.000000   120.000000   120.000000                    1 000033@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   180.000000   180.000000   120.000000   120.000000                    1 000034@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   216.000000   216.000000   120.000000   120.000000                    1 000035@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   252.000000   252.000000   120.000000   120.000000                    1 000036@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   288.000000   288.000000   120.000000   120.000000                    1 000037@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   324.000000   324.000000   120.000000   120.000000                    1 000038@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000     0.000000     0.000000   150.000000   150.000000                    1 000039@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000    60.000000    60.000000   150.000000   150.000000                    1 000040@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   120.000000   120.000000   150.000000   150.000000                    1 000041@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   180.000000   180.000000   150.000000   150.000000                    1 000042@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   240.000000   240.000000   150.000000   150.000000                    1 000043@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000   300.000000   300.000000   150.000000   150.000000                    1 000044@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
+    0.000000     0.000000     0.000000     0.000000   180.000000   180.000000                    1 000045@Runs/006828_XmippProtCreateGallery/images.stk     0.000000     0.000000 
