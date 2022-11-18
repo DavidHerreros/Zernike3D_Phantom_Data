@@ -5,3 +5,5 @@ This repository includes the binaries and metadatas needed to import the Phantom
 Two different dataset of particles are included:
 * A small dataset of 225 particles, representing 5 different conformations simulated from a CCT complex. This main purpose of the dataset is to evaluate the characteristics of the Zernike3D and ZART algorithms under ideal conditions.
 * A bigger dataset of 700 particles, corrupted with different levels of Gaussian noise to evaluate the robustness of the Zernike3D method under different situations.
+
+[![DOI](https://zenodo.org/badge/541505536.svg)](https://zenodo.org/badge/latestdoi/541505536)
